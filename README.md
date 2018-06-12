@@ -1,2 +1,2 @@
 # python
-Pythn test Repo
+Python test Repo
